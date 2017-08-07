@@ -40,7 +40,7 @@ In conclusion, the Internet is generally positive when it comes to the huge amou
 
 -----
 
-##### :pencil: Do you agree or disagree with the following statement? In order for a business to be successful, it must put more money into advertising.
+##### Do you agree or disagree with the following statement? In order for a business to be successful, it must put more money into advertising.
 
 Walking down the street, chances are minor that no advertisement is inside your sight. For decision makers in marketing department of almost any company, it seems an external question whether sufficient budget has been arranged for advertising. A successful modern company, at least from my perspective, ought to have abundant proportion of ~~budget~~investment intended for advertising.
 
@@ -54,7 +54,7 @@ In conclusion, it is reasonable to put more budget on advertising for the sake o
 
 -----
 
-##### :pencil: Movies and television have more negative effects than positive effects on the way young people behave.
+##### Movies and television have more negative effects than positive effects on the way young people behave.
 
 Agree.
 
@@ -70,7 +70,7 @@ Admittedly, movies and televisions are excellent media that have been doing an s
 
 -----
 
-##### :pencil: Do you agree or disagree: today advertising is less honest than it was in the past, for that reason it is less useful for people to choose what they want to buy.
+##### Do you agree or disagree: today advertising is less honest than it was in the past, for that reason it is less useful for people to choose what they want to buy.
 
 The reliability of advertisements has been doubted since the very start of its invention dated back thousands of years ago. As the economy booms in recent decades, substantial advertisements by virtually every company in the world has been flourishing, obscuring our sight everywhere, when their dependability is under heated discussion again. Modern advertisements, from my perspective, are truly less trustworthy in conveying concrete message about the product and guiding people's choice than it used to be and there are several reasons that follow.
 
@@ -99,3 +99,73 @@ Education is hurting children, so they have to rebel in some ways. Education now
 Admittedly, much more accessible means of entertainment as distractions do have an impact on children, making them rebellious against parents' wills, not to mention substantial inappropriate contents confront the immature. However, these distractions would never really matter, if children were otherwise engaged in the activities that appeal to them, without unfavorable after-school courses. Simply owing faults to recreational devices and facilities is never the cure to
 
 **35' 不知道怎么写下去了**
+
+-----
+
+According to the reading material, the author claims that providing employees with an optional 4-day weekday policy will increase company's profit, reducing unemployment rate and raise employees' life quality, whereas the professor in the listening material rebuts this point, arguing that the policy will hardly live up to the three expectations.
+
+The professor refutes the viewpoint demonstrated in the reading passage that companies can profit more with employees who are better rested and less likely to make errors at work by offering the shortened weekday policy, ~~by stating~~and states that companies in the contrary have to spend more in hiring more employees who in turn cost the company even more for offering extra training, medical care, office spaces and new devices like computers.
+
+The reading passage claims that the policy is expected to create new jobs thus it brings down the unemployment rate, which is completely opposed in the listening where the professor says that the policy will drive companies to make its employees work overtime to compensate the cost in hiring new workers, and to raise its expectation for staff possibly by compressing the time arranged for a task that normally takes 5 days into 4 days, as a consequence of which no more job will be created and thus unemployment rate will not drop.
+
+It is also proposed in the passage that thanks to the policy, individuals will be given better life quality since they have more time for rest and recreation. However, as argued in the lecture, their life quality would drop instead of rising since the policy will damage their job stability, making 4-day employees vulnerable to losing jobs in an economic crisis. Employees who enjoy the shortened weekdays also confront less job advancement and fewer promotion opportunities since companies hope their management positions should be occupied by people who work longer.
+
+-----
+
+According to the reading material, the author casts doubt on the accuracy of Chevalier's memoir, whereas the professor in the listening material rebuts these doubts and state that abundant evidence is available to prove its trustworthiness.
+
+The passage says that chances were minor that Chevalier was a rich man since he wrote that he had to borrow money from his merchant friends. However, as explained in the lecture, Chevalier was quite wealthy in terms of his possession rather than cash, and it was because it often took a few days at that time for him to convert his possession to cash by selling them out that he had to borrow some cash from his friends during those days.
+
+It is doubted in the passage that conversations between Chevalier and Voltaire are by no means reliable because by the time ~~when~~ the book was written, those conversations had already happened before many years and it was not likely that Chevalier remembered so clearly about every exact detail of them. Contrarily, the professor refutes it by saying that Chevalier took notes every night after his conversation with Voltaire, and when he was writing the memoir, he referred to many of his notes which he kept with care for long as well as journals, so it is not surprising that he could recollect every detail and put it in his memoir.
+
+The author of the passage also argues that Chevalier escaped from prison in Venice by bribing his friends in the government rather than breaking the prison on his own as described in his memoir, which again is opposed by the lecture. Bribes hardly worked, as the professor says, since other prisoners who had much greater gangs of political friends did not manage to escape from prison by bribing either. More evidently, according to the contemporary government records, the ceilings of the particular prison from which Chevalier escaped were reported to be repaired after he escaped.
+
+-----
+
+According to the reading passage, 'let it burn' policy is considered by the author to be destructive and that it should no longer be approved after the big fire in Yellowstone in 1988 for it imposed great damage to vegetation, wildlife and tourism, whereas the listening material refutes this point, arguing that these impacts were minor.
+
+The passages says the fire caused huge damage beyond imagination to trees and other vegetation. However, as stated in the lecture, the fire enabled new vegetation to grow and replace previously dominant species, promoting diversity. For example, big trees were obliterated and replaced by small trees. Besides, some seeds would not germinate in absence of heat.
+
+As for wildlife, it is supposed in the passage that wildlife population were largely threatened since many animals were unable to flee from the fire and the food chain balanced throughout years was completely destroyed. Contrarily, the lecture challenges it by saying that wildlife population recovered quickly after the fire, and an even stronger food chain was established since vegetation like small trees offers shelter for small animals like rabbits and hares which appealed to more predators.
+
+The lecture also refutes the viewpoint demonstrated in the passage about Yellowstone's tourism being damaged and local economy dependent on tourism being threatened since the fire erased virtually all tourist attractions. It is argued that 1988 fire was so rare that fire in similar size never took place again afterwards, not to mention that large number of tourists soon came back following the next year and local tourism recovered to previous level.
+
+-----
+
+TPO 30
+
+According to the reading material, the author cast doubt on the trueness that the Greeks used large mirrors to set Roman ships on fire in order to defend themselves, whereas the professor in the listening material opposes this, arguing that it could actually happen.
+
+It is stated in the passage that ancient Greeks did not possess the technology to build such a huge mirror with a few meters in radius and with an eligible geometric shape in good precision so that it concentrates sunlight. However, the professor argues that the Greeks had the technology to build small and flat polished mirrors and could assemble them to a large approximated curve so it could still work without the need to manufacture the mirror as an integrated sheet, not to mention that the contemporary Greek mathematicians already knew the maths required to put the mirrors into the right positions.
+
+The reading passage says that according to an experiment it is anticipated that it would take a few minutes to inflame a Roman warship that remains still, let alone in reality Romans would never make their ships unmoved. Contrarily, the professor challenges this by saying that it might be inefficient to inflame the wooden parts on the ships but there was components installed on the ships that could catch a fire in seconds and spread easily to wood.
+
+The reading material also argues that the Greeks could use flaming arrows which were a much more common and effective solution to set the enemy ships on fire rather than a mirror, which is again refuted by the professor who claims that Roman soldiers were so familiar with this that they were well prepared for flaming arrows, putting the fire they would cause as soon as they land, while fire caused by the reflected light ray were uneasy to notice, since light ray is invisible, therefore it would be surprising for the Romans when they discovered fire on the ships.
+
+-----
+
+##### :pencil: It is more enjoyable to have a job where you work only three days a week for long hours than to have a job where you work five days a week for shorter hours.
+
+Weekdays are so tedious that people nowadays are even proposing a four-day or three-day weekday policy, stating that in order for more days in the weekend stretched weekdays are tolerable. With the overall work-time remaining persistent, I, however, would still prefer to work five days a week with less hours for one-day work.
+
+An appropriate length of work-time is essential to efficiency at work. It is always difficult for one to keep his concentration for a long period of time, whether for students in class or employees at work, let alone to have his mind operate at constant efficiency. Various investigations have shown that people's speed of solving problems dramatically drops after an hour of intense thinking and people start to feel sleepy, from which point of time it will be quite harmful for one's health. It is obviously unreasonable and unenjoyable from the perspective of long term for one to trade two extra days for entertainment and rest with the sacrifice of his own health which is almost equivalent to his happiness in late life.
+
+The majority of people are sticking to five-weekday policy. It might be comfortable for only you to shift to three-weekday policy as soon as possible. However, in those two days which you have spared with tiresome long hours of work in the previous three days, most of your friends and family members are probably working. The varied timetables bring so much conflict and collision that it will be only those who have chosen three-weekday policy like you that you can possibly hang out with. Contrarily, if you stick to the old-fashioned policy, you can have all the seven evenings and nights in a week for leisure with friends and families, instead of envying others in the two evenings when you work or idling in loneliness during the two extra weekend days.
+
+Admittedly, three-weekday policy has its edges. For those whose workplaces are far away from home and whom it takes several hours to commute between them, the revolutionary policy will cut down the time wasted on the way greatly. However, considering the impact that long intense hours of work will have on health as well as the timetable conflicts which has been discussed above, more weekdays with shorter hours at work is much more preferable even though it means waking up early for two mornings.
+
+**44'**
+
+-----
+
+TPO 32
+
+
+
+-----
+
+TPO 34
+
+-----
+
+TPO 40
