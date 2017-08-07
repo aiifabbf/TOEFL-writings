@@ -132,7 +132,7 @@ The lecture also refutes the viewpoint demonstrated in the passage about Yellows
 
 -----
 
-TPO 30
+TPO 30 :pencil:
 
 According to the reading material, the author cast doubt on the trueness that the Greeks used large mirrors to set Roman ships on fire in order to defend themselves, whereas the professor in the listening material opposes this, arguing that it could actually happen.
 
@@ -150,7 +150,8 @@ Weekdays are so tedious that people nowadays are even proposing a four-day or th
 
 An appropriate length of work-time is essential to efficiency at work. It is always difficult for one to keep his concentration for a long period of time, whether for students in class or employees at work, let alone to have his mind operate at constant efficiency. Various investigations have shown that people's speed of solving problems dramatically drops after an hour of intense thinking and people start to feel sleepy, from which point of time it will be quite harmful for one's health. It is obviously unreasonable and unenjoyable from the perspective of long term for one to trade two extra days for entertainment and rest with the sacrifice of his own health which is almost equivalent to his happiness in late life.
 
-The majority of people are sticking to five-weekday policy. It might be comfortable for only you to shift to three-weekday policy as soon as possible. However, in those two days which you have spared with tiresome long hours of work in the previous three days, most of your friends and family members are probably working. The varied timetables bring so much conflict and collision that it will be only those who have chosen three-weekday policy like you that you can possibly hang out with. Contrarily, if you stick to the old-fashioned policy, you can have all the seven evenings and nights in a week for leisure with friends and families, instead of envying others in the two evenings when you work or idling in loneliness during the two extra weekend days.
+The majority of people are sticking to five-weekday policy. It mi
+ght be comfortable for only you to shift to three-weekday policy as soon as possible. However, in those two days which you have spared with tiresome long hours of work in the previous three days, most of your friends and family members are probably working. The varied timetables bring so much conflict and collision that it will be only those who have chosen three-weekday policy like you that you can possibly hang out with. Contrarily, if you stick to the old-fashioned policy, you can have all the seven evenings and nights in a week for leisure with friends and families, instead of envying others in the two evenings when you work or idling in loneliness during the two extra weekend days.
 
 Admittedly, three-weekday policy has its edges. For those whose workplaces are far away from home and whom it takes several hours to commute between them, the revolutionary policy will cut down the time wasted on the way greatly. However, considering the impact that long intense hours of work will have on health as well as the timetable conflicts which has been discussed above, more weekdays with shorter hours at work is much more preferable even though it means waking up early for two mornings.
 
@@ -158,7 +159,21 @@ Admittedly, three-weekday policy has its edges. For those whose workplaces are f
 
 -----
 
-TPO 32
+TPO 32 :pencil:
+
+According to the reading material, the author presents three theories that can possibly explain quackers, whereas in the listening material the professor denies all of the three theories.
+
+It is said in the passage that it might be the orca whales that made these sounds since their sound is considered, based on extensive studies on orcas, very similar to what the submarines detected. However, it is refuted by the professor who says that orcas mainly live on the surface of the ocean so that it was unlikely that submarines which stay deep in the water, far away from the surface, could detect their sounds, not to mention orcas are detectable by sonar.
+
+The passage gives an explanation that giant squids caused these sounds since squids do not have skeleton, making them undetectable by sonar. Contrarily, the professor challenges this opinion by stating that quackers were frequently received between 1960s and 1980s and quackers suddenly disappeared in the late 1980s, while squids are known to **have been living** in that area ~~at all time~~all the time.
+
+It is also claimed in the reading material that quackers might come from secret foreign submarines equipped with anti-sonar technology, which is again opposed by the professor who says that quackers' patterns implied that its origins were changing direction so swiftly that no contemporary submarines could do that. Moreover, when quackers were detected, no engine noise was sensed simultaneously, but even nowadays, no submarines can avoid engine noise being detected.
+
+** 17' **
+
+-----
+
+##### :pencil: Young people today have no influence on the important decisions that determine the future of society as a whole.
 
 
 
