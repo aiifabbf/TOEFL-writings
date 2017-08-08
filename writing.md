@@ -84,13 +84,13 @@ Admittedly, advertising remains a trustworthy source of potential costumers and 
 
 In conclusion, advertising functioning as dependable origins of commodities is disappearing, replaced by its greater function as public awareness raiser and a piece of fine arts that best transfers the noble philosophy of the brand. It is anticipated that as society advances, advertisements will continue to be even lovelier before eyes but less faithful in mind.
 
-** 50' ** :new_moon_with_face:
+**50'** :new_moon_with_face:
 
 -----
 
 TPO 34
 
-##### :pencil: Do you agree or disagree with the following statement? Educating children is a more difficult task today than it was in the past because they spend so much time on cell phone, online games, and social networking website.
+##### :calendar: Do you agree or disagree with the following statement? Educating children is a more difficult task today than it was in the past because they spend so much time on cell phone, online games, and social networking website.
 
 Generation gaps exist between every two generations in reality, but it was not until the very recent that gaps between the latest two generations seem so considerably enlarged, with increasing complaints from parents that education becomes a tough task which in my opinion is a truth. However, distractions like the prevailing smart phones and online games, on which the majority of parents blame for their children being untamable, from my perspective, hardly count as the primary reason.
 
@@ -171,9 +171,11 @@ The passage gives an explanation that giant squids caused these sounds since squ
 
 It is also claimed in the reading material that quackers might come from secret foreign submarines equipped with anti-sonar technology, which is again opposed by the professor who says that quackers' patterns implied that its origins were changing direction so swiftly that no contemporary submarines could do that. Moreover, when quackers were detected, no engine noise was sensed simultaneously, but even nowadays, no submarines can avoid engine noise being detected.
 
-** 17' **
+**17'**
 
 -----
+
+TPO 32
 
 ##### :pencil: Young people today have no influence on the important decisions that determine the future of society as a whole.
 
@@ -187,16 +189,32 @@ Young generations have extraordinary creativity. As society advances and economy
 
 Admittedly, old generations have their edges over the young in their objective and moderate way of considering and viewing and it is undeniable that they have contributed much to the creation of modern society in which the young were raised. However, it is juvenile and naive for some senior citizens to presume that the young have little influence on the course of society simply based on the small proportion of young staff in the government. It is a truth though that governments are gradually losing the ability to appeal to the young, but young generations are truly transforming every important aspect of society.
 
-** 42' **
+**42'**
 
 -----
 
 TPO 34
 
+
+
 -----
 
 TPO 40
 
+
+
 -----
 
-##### Some parent offer their school-age children money for each high grade(mark) they get in school. Do you think this is a good idea?
+TPO 40
+
+##### :pencil: Some parent offer their school-age children money for each high grade(mark) they get in school. Do you think this is a good idea?
+
+As competitions become fiercer in school, parents are coming up with every possible method in order to boost their children's performance in tests, some of whom even give them money as a reward of high grade, which has raised an acute discussion. This practice, from my perspective, is not preferable though as it does no good to children.
+
+Money is hardly a good stimulus that can encourage children incessantly. Using money as stimulus might be useful and effective for the first or second time, as it enables children to harvest great joy in possessing the freedom to purchase whatever they wish. However, chances are that children gradually take this reward for granted and no longer view it as a reward. More severely, once their performance in tests decreases accidentally, they are given less money or are even cut off this joy, which imposes great stress on children because they desperately desire the freedom back, as a consequence of which they probably do even worse in the next test. As time passes, money as a stimulus forms a negative feedback loop, witnessing children performing less and less satisfyingly.
+
+Giving money as reward distorts children's concept of money. Money is a relatively ambiguous concept for children at school, while a good grade in a test basically deserves no money paying back as a reward since getting good performance in a test might mean a lot to the exam-takers but it does not create contribution to society nor provide others with useful service. In essence, money was invented as a alternative that represents the average efforts taken in making contribution to society. If parents give money reward, they are equivalently indicating to their children that there is a plausible connection between a good grade and getting paid by money, which is certainly setting a false notion of money in children's mind. As a consequence, whenever children are deprived of money reward due to bad performance, they become so desperate that they might come up with devil thoughts such as outcrying for money or even stealing money from parents.
+
+Admittedly, money as a reward is an enormously effective stimulus for the first few weeks and a sudden and huge rise in children's grades is expected soon since money, representing their favorite toys or a palatable meal at their favorite restaurant, is such a giant lure that few children decide not to work hard, submerged in the fantasy. However, as stated above, using money as a stimulus trades children's performance with their moral senses, jeopardizing their future. In conclusion, it is never a good idea to offer money as a reward.
+
+**43'**
