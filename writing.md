@@ -56,7 +56,7 @@ In conclusion, it is reasonable to put more budget on advertising for the sake o
 
 ##### Movies and television have more negative effects than positive effects on the way young people behave.
 
-Agree.
+> More study, more data.
 
 Mass media of the new generation like movies and television are so prevailing that they have already jeopardized conventional media such as newspapers and magazines. When people hold the pervasive opinion about their preponderance, it is, from my perspective, undeniable that these new dynamic media are imposing more negative impact on the behavior of the juvenile and the young than ever.
 
@@ -71,6 +71,8 @@ Admittedly, movies and televisions are excellent media that have been doing an s
 -----
 
 ##### Do you agree or disagree: today advertising is less honest than it was in the past, for that reason it is less useful for people to choose what they want to buy.
+
+> More data.
 
 The reliability of advertisements has been doubted since the very start of its invention dated back thousands of years ago. As the economy booms in recent decades, substantial advertisements by virtually every company in the world has been flourishing, obscuring our sight everywhere, when their dependability is under heated discussion again. Modern advertisements, from my perspective, are truly less trustworthy in conveying concrete message about the product and guiding people's choice than it used to be and there are several reasons that follow.
 
@@ -175,7 +177,17 @@ It is also claimed in the reading material that quackers might come from secret 
 
 ##### :pencil: Young people today have no influence on the important decisions that determine the future of society as a whole.
 
+社会类
 
+Old generations tend to attach great hope to young generations, expecting them to impose giant influence on driving the whole society towards positive direction. To their disappointment though, young people do not seem to take the lead when it comes to the important decisions of society, at least from the perspective of a considerable number of people, where I must oppose and argue that the young do have impact on society and its future.
+
+Young generations lead society in an unnoticeable and indirect manner. People nowadays do not have to sit in a government to make important decisions and the authorities are compelled to absorb abundant suggestions from society to make reasonable decisions that are acceptable for the majority. The market, which is a huge part of society, is what governments must favor on a large scale and is usually where young generations have dominant and decisive forces. China, for example, has recently granted Sony Corporation the privilege to sell its well-received PlayStation 4 game console publicly in China mainland, after retreating the ban on video games and game consoles which had lasted for almost two decades. It is the outcry from young generations who mostly support legalization of sale of games and take up virtually a total proportion of video game customers that forces the government to change its mind.
+
+Young generations have extraordinary creativity. As society advances and economy booms, things may not work as it had for the past years, while old generations, due to the era in which they were born and raised, have confined and unvarying thinking when confronted with contemporary innovations that are expected to completely change the world. Contrarily, young generations, more open-minded, are easy to accept difference, which helps them build creative thinking that is more consistent with modern world. Were it not for the young who is seemingly radical from the viewpoint of the old, fashion, architecture and industrial design would never proceed at such a fast pace challenging prevailing concept towards clothes, buildings and cell phones.
+
+Admittedly, old generations have their edges over the young in their objective and moderate way of considering and viewing and it is undeniable that they have contributed much to the creation of modern society in which the young were raised. However, it is juvenile and naive for some senior citizens to presume that the young have little influence on the course of society simply based on the small proportion of young staff in the government. It is a truth though that governments are gradually losing the ability to appeal to the young, but young generations are truly transforming every important aspect of society.
+
+** 42' **
 
 -----
 
@@ -184,3 +196,7 @@ TPO 34
 -----
 
 TPO 40
+
+-----
+
+##### Some parent offer their school-age children money for each high grade(mark) they get in school. Do you think this is a good idea?
