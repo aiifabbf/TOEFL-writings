@@ -218,3 +218,21 @@ Giving money as reward distorts children's concept of money. Money is a relative
 Admittedly, money as a reward is an enormously effective stimulus for the first few weeks and a sudden and huge rise in children's grades is expected soon since money, representing their favorite toys or a palatable meal at their favorite restaurant, is such a giant lure that few children decide not to work hard, submerged in the fantasy. However, as stated above, using money as a stimulus trades children's performance with their moral senses, jeopardizing their future. In conclusion, it is never a good idea to offer money as a reward.
 
 **43'**
+
+-----
+
+TPO 31
+
+-----
+
+##### Because the world is changing so quickly, people now are less happy or less satisfied with their lives than people were in the past.
+
+Prosperity in modern society has provided people with enormous abundance of materials, technologies and cultures that brings huge diversity as well as convenience to life, whereas it is indeed an undeniable truth that people nowadays do not feel so happy as before. Some people hold the opinion that it is the unprecedentedly fast pace at which the whole world is changing that causes dissatisfaction, where I must disagree and argue that other reasons should be considered more decisive than it.
+
+People simply desire more. It is probably seemingly unreasonable for modern civilians to possess the idea of desiring since convenience has almost reached its ceiling where daily routines cannot be optimized any further. However, as economy booms, literature, movie and many other forms of mental civilization are flourishing, enabling people to hold more fantasy and imagination about what their ideal life should be. The gap between fantasy and reality obviously creates void in their mental well-being, lowering their sense of fulfillment. Comparatively, back in the old days when society was not well developed, people were so occupied, struggling for survival being their superior task, which spared no room for imagination, that people became content as long as when they had meat served for a meal.
+
+Inequality is increasing. It is said that lack is less fearful than inequality, implying that inequality is a huge obstacle between people and the feeling of happiness. Various investigations with delicately designed experiments that took place among university students have shown that compared to the absolute amount of value or property one owns, others' amount of personal possession is of more concern to ordinary people, indicating that compared to one's own life quality level, people care more about whether they enjoy the same level of well being as others.
+
+Admittedly, the enormously fast pace at which change takes place is imposing stress onto people, especially the old generations who is afraid of being rid off the mainstream of society from time to time. Moreover, the direction of change is often vague and unclear, challenging people's faith in morality which they hope they can hold permanently. However, since the speed is unstoppable at least in the predictable future, our focus should shift onto those problems like mental fulfillment and social inequality that shock people's satisfaction, rather than trying to hamper development of society in vain.
+
+**45'**
