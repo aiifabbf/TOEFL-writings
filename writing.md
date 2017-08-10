@@ -70,7 +70,7 @@ Admittedly, movies and televisions are excellent media that have been doing an s
 
 -----
 
-##### Do you agree or disagree: today advertising is less honest than it was in the past, for that reason it is less useful for people to choose what they want to buy.
+##### :star: Do you agree or disagree: today advertising is less honest than it was in the past, for that reason it is less useful for people to choose what they want to buy.
 
 > More data.
 
@@ -97,6 +97,9 @@ Generation gaps exist between every two generations in reality, but it was not u
 Education is getting increasingly costly nowadays. Prosperity in economy has granted virtually every family the pervading basic education at an affordable price, while premium education that enables children to develop a more solid knowledge base remains a scarce kind of resource beyond the reach of common middle-class families. Driven by the uncontrollable desire to cultivate more successful descendants in order to facilitate future opportunities for the family to move up in society, parents are compelled to pay as heavily  as in a gamble for upgraded education that aims more at inspiring children's potential talents. After all, that strong desire originates largely from middle-class parent's anxiety in hoping to preserve the family's social status in a society that is anticipated to be more fiercer in competition.
 
 Education is hurting children, so they have to rebel in some ways. Education nowadays is not any longer as simple as countable subjects like maths and language. Children are expected to be skillful at literally everything, from dancing to playing a musical instrument. Deep in their heart, the amusement park or a family picnic accompanied with parents and friends is where they belong, rather than these tedious courses. However,
+> 孩子为什么会反叛，反叛对教育的影响。
+
+> 其他原因：孩子受社会影响形成自己的思维。
 
 Admittedly, much more accessible means of entertainment as distractions do have an impact on children, making them rebellious against parents' wills, not to mention substantial inappropriate contents confront the immature. However, these distractions would never really matter, if children were otherwise engaged in the activities that appeal to them, without unfavorable after-school courses. Simply owing faults to recreational devices and facilities is never the cure to
 
@@ -134,7 +137,7 @@ The lecture also refutes the viewpoint demonstrated in the passage about Yellows
 
 -----
 
-TPO 30 :pencil:
+TPO 30
 
 According to the reading material, the author cast doubt on the trueness that the Greeks used large mirrors to set Roman ships on fire in order to defend themselves, whereas the professor in the listening material opposes this, arguing that it could actually happen.
 
@@ -152,8 +155,7 @@ Weekdays are so tedious that people nowadays are even proposing a four-day or th
 
 An appropriate length of work-time is essential to efficiency at work. It is always difficult for one to keep his concentration for a long period of time, whether for students in class or employees at work, let alone to have his mind operate at constant efficiency. Various investigations have shown that people's speed of solving problems dramatically drops after an hour of intense thinking and people start to feel sleepy, from which point of time it will be quite harmful for one's health. It is obviously unreasonable and unenjoyable from the perspective of long term for one to trade two extra days for entertainment and rest with the sacrifice of his own health which is almost equivalent to his happiness in late life.
 
-The majority of people are sticking to five-weekday policy. It mi
-ght be comfortable for only you to shift to three-weekday policy as soon as possible. However, in those two days which you have spared with tiresome long hours of work in the previous three days, most of your friends and family members are probably working. The varied timetables bring so much conflict and collision that it will be only those who have chosen three-weekday policy like you that you can possibly hang out with. Contrarily, if you stick to the old-fashioned policy, you can have all the seven evenings and nights in a week for leisure with friends and families, instead of envying others in the two evenings when you work or idling in loneliness during the two extra weekend days.
+The majority of people are sticking to five-weekday policy. It might be comfortable for only you to shift to three-weekday policy as soon as possible. However, in those two days which you have spared with tiresome long hours of work in the previous three days, most of your friends and family members are probably working. The varied timetables bring so much conflict and collision that it will be only those who have chosen three-weekday policy like you that you can possibly hang out with. Contrarily, if you stick to the old-fashioned policy, you can have all the seven evenings and nights in a week for leisure with friends and families, instead of envying others in the two evenings when you work or idling in loneliness during the two extra weekend days.
 
 Admittedly, three-weekday policy has its edges. For those whose workplaces are far away from home and whom it takes several hours to commute between them, the revolutionary policy will cut down the time wasted on the way greatly. However, considering the impact that long intense hours of work will have on health as well as the timetable conflicts which has been discussed above, more weekdays with shorter hours at work is much more preferable even though it means waking up early for two mornings.
 
@@ -161,7 +163,7 @@ Admittedly, three-weekday policy has its edges. For those whose workplaces are f
 
 -----
 
-TPO 32 :pencil:
+TPO 32
 
 According to the reading material, the author presents three theories that can possibly explain quackers, whereas in the listening material the professor denies all of the three theories.
 
@@ -177,17 +179,23 @@ It is also claimed in the reading material that quackers might come from secret 
 
 TPO 32
 
-##### :pencil: Young people today have no influence on the important decisions that determine the future of society as a whole.
+##### :star: Young people today have no influence on the important decisions that determine the future of society as a whole.
 
 社会类
 
-Old generations tend to attach great hope to young generations, expecting them to impose giant influence on driving the whole society towards positive direction. To their disappointment though, young people do not seem to take the lead when it comes to the important decisions of society, at least from the perspective of a considerable number of people, where I must oppose and argue that the young do have impact on society and its future.
+> 很顺口
+
+> 换词汇
+
+:star: Old generations tend to attach great hope to young generations, expecting them to impose giant influence on driving the whole society towards positive direction. To their disappointment though, young people do not seem to take the lead when it comes to the important decisions of society, at least from the perspective of a considerable number of people, where I must oppose and argue that the young do have impact on society and its future.
 
 Young generations lead society in an unnoticeable and indirect manner. People nowadays do not have to sit in a government to make important decisions and the authorities are compelled to absorb abundant suggestions from society to make reasonable decisions that are acceptable for the majority. The market, which is a huge part of society, is what governments must favor on a large scale and is usually where young generations have dominant and decisive forces. China, for example, has recently granted Sony Corporation the privilege to sell its well-received PlayStation 4 game console publicly in China mainland, after retreating the ban on video games and game consoles which had lasted for almost two decades. It is the outcry from young generations who mostly support legalization of sale of games and take up virtually a total proportion of video game customers that forces the government to change its mind.
 
-Young generations have extraordinary creativity. As society advances and economy booms, things may not work as it had for the past years, while old generations, due to the era in which they were born and raised, have confined and unvarying thinking when confronted with contemporary innovations that are expected to completely change the world. Contrarily, young generations, more open-minded, are easy to accept difference, which helps them build creative thinking that is more consistent with modern world. Were it not for the young who is seemingly radical from the viewpoint of the old, fashion, architecture and industrial design would never proceed at such a fast pace challenging prevailing concept towards clothes, buildings and cell phones.
+Young generations have extraordinary creativity. As society advances and economy booms, things may not work as it had for the past years, while old generations, due to the era in which they were born and raised, have confined and unvarying thinking when confronted with contemporary innovations that are expected to completely change the world. Contrarily, young generations, more open-minded, are easy to accept difference, which helps them build creative thinking that is more consistent with modern world. Were it not for the young who is seemingly radical from the viewpoint of the old, fashion, architecture and industrial design would never proceed at such a fast pace challenging prevailing concept towards clothes, buildings and cell phones. **具体实例** **总结**In terms of creativity, compared to the old, young generations have a vital impact on the course of some realms of society.
 
 Admittedly, old generations have their edges over the young in their objective and moderate way of considering and viewing and it is undeniable that they have contributed much to the creation of modern society in which the young were raised. However, it is juvenile and naive for some senior citizens to presume that the young have little influence on the course of society simply based on the small proportion of young staff in the government. It is a truth though that governments are gradually losing the ability to appeal to the young, but young generations are truly transforming every important aspect of society.
+
+**结尾**In conclusion, youngster are already imposing their influence on those important decisions of society in their own manner, and it is expected that they will continue exerting this irreplaceable/indispensable influence in the future.
 
 **42'**
 
@@ -207,13 +215,15 @@ TPO 40
 
 TPO 40
 
-##### :pencil: Some parent offer their school-age children money for each high grade(mark) they get in school. Do you think this is a good idea?
+##### Some parent offer their school-age children money for each high grade(mark) they get in school. Do you think this is a good idea?
 
-As competitions become fiercer in school, parents are coming up with every possible method in order to boost their children's performance in tests, some of whom even give them money as a reward of high grade, which has raised an acute discussion. This practice, from my perspective, is not preferable though as it does no good to children.
+> 不要强行用定语从句。
 
-Money is hardly a good stimulus that can encourage children incessantly. Using money as stimulus might be useful and effective for the first or second time, as it enables children to harvest great joy in possessing the freedom to purchase whatever they wish. However, chances are that children gradually take this reward for granted and no longer view it as a reward. More severely, once their performance in tests decreases accidentally, they are given less money or are even cut off this joy, which imposes great stress on children because they desperately desire the freedom back, as a consequence of which they probably do even worse in the next test. As time passes, money as a stimulus forms a negative feedback loop, witnessing children performing less and less satisfyingly.
+:star: As competitions become fiercer in school, parents are coming up with every possible method in order to boost their children's performance in tests, some of whom even give them money as a reward of high grade, which has raised an acute discussion. This practice, from my perspective, is not preferable though as it does no good to children.
 
-Giving money as reward distorts children's concept of money. Money is a relatively ambiguous concept for children at school, while a good grade in a test basically deserves no money paying back as a reward since getting good performance in a test might mean a lot to the exam-takers but it does not create contribution to society nor provide others with useful service. In essence, money was invented as a alternative that represents the average efforts taken in making contribution to society. If parents give money reward, they are equivalently indicating to their children that there is a plausible connection between a good grade and getting paid by money, which is certainly setting a false notion of money in children's mind. As a consequence, whenever children are deprived of money reward due to bad performance, they become so desperate that they might come up with devil thoughts such as outcrying for money or even stealing money from parents.
+Money is hardly a good stimulus that can encourage children incessantly. Using money as stimulus might be useful and effective for the first or second time, as it enables children to harvest great joy in possessing the freedom to purchase whatever they wish. However, chances are that children gradually take this reward for granted and no longer view it as a reward. More severely, once their performance in tests decreases accidentally, they are given less money or are even ~~cut off~~deprived of this joy, which imposes great stress on children because they desperately desire the freedom back~~, as a consequence of which~~. Consequently, they probably do even worse in the next test. As time passes, money, as a stimulus, forms a negative feedback loop, witnessing children performing less and less satisfyingly.
+
+Giving money as reward distorts children's ~~concept of money~~financial thinking. Money is a relatively ambiguous concept for children at school, while a good grade in a test basically deserves no money paying back as a reward since getting good performance in a test might mean a lot to the exam-takers but it does not create contribution to society nor provide others with useful service. In essence, money was invented as a alternative that represents the average efforts taken in making contribution to society. If parents give money reward, they are equivalently indicating to their children that there is a plausible connection between a good grade and getting paid by money, which is certainly setting a false notion of money in children's mind. As a consequence, whenever children are deprived of money reward due to bad performance, they become so desperate that they might come up with devil thoughts such as outcrying for money or even stealing money from parents.
 
 Admittedly, money as a reward is an enormously effective stimulus for the first few weeks and a sudden and huge rise in children's grades is expected soon since money, representing their favorite toys or a palatable meal at their favorite restaurant, is such a giant lure that few children decide not to work hard, submerged in the fantasy. However, as stated above, using money as a stimulus trades children's performance with their moral senses, jeopardizing their future. In conclusion, it is never a good idea to offer money as a reward.
 
@@ -221,18 +231,36 @@ Admittedly, money as a reward is an enormously effective stimulus for the first 
 
 -----
 
-TPO 31
+TPO 31 :pencil:
+
+According to the reading material, the author presented three reasons to oppose that Sinosauropteryx was feathered, whereas the professor in the lecture refutes all the three reasons, stating that abundant evidence exists that can prove it was feathered.
+
+The reading passage says the fine lines were probably formed after the dinosaur's death and were not any structure on its body. However, the professor disagrees this by saying that other animals buried at the same time and discovered in the same site do not have these lines on them, not to mention that according to the condition of the remains of other animals excavated, volcanic ash shows an excellent ability to preserve these remains well.
+
+It is claimed in the reading that even if these fine lines were not from decomposition and came from part of the dinosaur, they could be frills rather than feathers. Contrarily, the professor argues that feathers and frills have difference in terms of their chemical composition and some special kind of protein that exists in feathers but not in frills was detected in these fine lines.
+
+It is also stated in the passage that feathers might not be necessary to a dinosaur in terms of flying or regulating body temperature according to the location of the lines, which is again opposed by the professor who says feathers could have other functions such as display function which for example many birds use to attract mates.
 
 -----
 
-##### Because the world is changing so quickly, people now are less happy or less satisfied with their lives than people were in the past.
+##### :warning: Because the world is changing so quickly, people now are less happy or less satisfied with their lives than people were in the past.
+
+> 人们比以前更快乐
+
+> 科技
+
+> 精神生活 精神层次提高
+
+> 现代社会的压力 但是
 
 Prosperity in modern society has provided people with enormous abundance of materials, technologies and cultures that brings huge diversity as well as convenience to life, whereas it is indeed an undeniable truth that people nowadays do not feel so happy as before. Some people hold the opinion that it is the unprecedentedly fast pace at which the whole world is changing that causes dissatisfaction, where I must disagree and argue that other reasons should be considered more decisive than it.
 
 People simply desire more. It is probably seemingly unreasonable for modern civilians to possess the idea of desiring since convenience has almost reached its ceiling where daily routines cannot be optimized any further. However, as economy booms, literature, movie and many other forms of mental civilization are flourishing, enabling people to hold more fantasy and imagination about what their ideal life should be. The gap between fantasy and reality obviously creates void in their mental well-being, lowering their sense of fulfillment. Comparatively, back in the old days when society was not well developed, people were so occupied, struggling for survival being their superior task, which spared no room for imagination, that people became content as long as when they had meat served for a meal.
 
-Inequality is increasing. It is said that lack is less fearful than inequality, implying that inequality is a huge obstacle between people and the feeling of happiness. Various investigations with delicately designed experiments that took place among university students have shown that compared to the absolute amount of value or property one owns, others' amount of personal possession is of more concern to ordinary people, indicating that compared to one's own life quality level, people care more about whether they enjoy the same level of well being as others.
+Inequality ~~is increasing~~is more serious than before. It is said that lack is less fearful than inequality, implying that inequality is a huge obstacle between people and the feeling of happiness. Various investigations with delicately designed experiments that took place among university students have shown that compared to the absolute amount of value or property one owns, others' amount of personal possession is of more concern to ordinary people, indicating that compared to one's own life quality level, people care more about whether they enjoy the same level of well being as others.
 
 Admittedly, the enormously fast pace at which change takes place is imposing stress onto people, especially the old generations who is afraid of being rid off the mainstream of society from time to time. Moreover, the direction of change is often vague and unclear, challenging people's faith in morality which they hope they can hold permanently. However, since the speed is unstoppable at least in the predictable future, our focus should shift onto those problems like mental fulfillment and social inequality that shock people's satisfaction, rather than trying to hamper development of society in vain.
 
 **45'**
+
+-----
