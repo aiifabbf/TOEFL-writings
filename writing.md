@@ -263,4 +263,42 @@ Admittedly, the enormously fast pace at which change takes place is imposing str
 
 **45'**
 
+> 重写
+
 -----
+
+TPO 33
+
+-----
+
+##### :pencil: When teachers assign projects on which students must work together, the students learn much more effectively than when they are asked to work alone on projects.
+
+There has always been a discussion among educators about whether to favor collaborative or solo projects. They both have their own unique and irreplaceable preponderance under various context, but collaborative assignment, from my perspective, is more favorable than its independent counterpart in most cases.
+
+Collaboration accelerates students' speed at which they absorb knowledge. Compared to independent project, collaborative projects add transfer of information to the process. In a conventional solo project, a student do all the work on his own. With everything done, he waits for the feedback from the teacher, which might take a few days to review the result. Apart from the delay that might hamper the student from recollecting details and gathering experience learned in the project, students hardly share their work with each other to possess an objective perspective on their own composition. Various investigations have shown that compared to their senior generations, people tend to accept suggestions from their own generations more sincerely. To conclude, working together boosts students' potential in receiving novel knowledge.
+
+Efficient collaboration is brought as a vital skill to students during group projects. Modern scientific research findings more rarely depend on single individuals' outstanding intelligence, where collective wisdom in the form of scientific groups and laboratories that consist of hundreds of scientists is replacing traditional single scientists like Einstein and Thomas Young, becoming dominant forces in achieving new breakthroughs. Consequently, as a modern individual, collaboration is fundamental and collaborative projects are perfect occasions to train this vital skill. During collaboration, students learn how to express himself, listen to others' opinions and eventually evolve a consensus that is well proved and viable. Contrarily, students may neglect the discrimination and prejudice he brings in, hardly capable of gradually cultivating critical thinking.
+
+Admittedly, working on a project together is much more time-consuming than doing a solo project, both for teachers as reviewers and students as participants, since without proper instructions on effective cooperation, it takes time and numerous practice for the students to figure out a good way to fit in a team and to communicate with efficiency. However, from the perspective of long-term effects, proceeding collaborative projects enables students to fit in modern society better, which overweights personal wisdom under contemporary context.
+
+In conclusion, working as a group in a project has so many dominant edges over working alone. As economy advances and society's call for more collaboration, collaborative projects are expected to be more acceptable by more educators.
+
+**43'**
+
+-----
+
+TPO 29
+
+-----
+
+##### :pencil: To improve the quality of education, universities should spend money on salaries of university professors.
+
+It has long been a phenomenon that university professors complain about their low salary while everybody else in society do not think they deserve so much. For the sake of university education quality, university professors, from my perspective, is worth higher salaries.
+
+High salaries free professors from distractions. It is very common for university professors who are hardly satisfied with the number they are payed to do some 'part-time job' such as working as a consultant in a company whose realm is relevant to his research interest, or participating in reviewing test papers in annual college entrance examination. These jobs, however, are huge distractions that shift away a great proportion of professors' concentration at teaching and instructing students. Moreover, professors are competing fiercely for superior titles with which one gets paid more. If high salaries are present, a large number of professors will be content with his income and focus virtually all his vigor onto educating and improving his classes. Consequently, the quality of education can thus advance.
+
+Talents from all academic realms will be fascinated to enter universities for career. There is currently hardly any motivation for one to steel his will to be a professor, except his own substantial interest in a particular field of research or the relatively high social status with fancy titles as a university professor. As a consequence, the intellectuals, once they get their master degree or doctor degree, flee away from university to commercial companies or startups, even risking themselves being unemployed in such a saturated human resource market. It is investigated that throughout the US, instead of professors, football coaches get the highest pay over all staff in a university. Were there reasonably higher salaries for the teaching positions, elites from all around the society would be willing to come to universities with their most advanced industrial experience gained throughout years of practice to share with students.
+
+Admittedly, to nourish a university with decent quality of undergraduate or graduate education, many other measures can also be considered to take, such as partitioning more budget for teaching materials like projectors and classroom facilities. However, there is no other action that is more efficient than raising professors' satisfaction at their job since they are the fundamental forces as well as the true soul that makes up a university and spreads knowledge. In conclusion, as economy booms and society's call for improved higher education, professors will be given more reverence and correspondingly high salaries that fit their contribution.
+
+**43'**
