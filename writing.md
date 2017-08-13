@@ -271,15 +271,21 @@ TPO 33
 
 -----
 
-##### :pencil: When teachers assign projects on which students must work together, the students learn much more effectively than when they are asked to work alone on projects.
+TPO 33
+
+##### When teachers assign projects on which students must work together, the students learn much more effectively than when they are asked to work alone on projects.
 
 There has always been a discussion among educators about whether to favor collaborative or solo projects. They both have their own unique and irreplaceable preponderance under various context, but collaborative assignment, from my perspective, is more favorable than its independent counterpart in most cases.
 
-Collaboration accelerates students' speed at which they absorb knowledge. Compared to independent project, collaborative projects add transfer of information to the process. In a conventional solo project, a student do all the work on his own. With everything done, he waits for the feedback from the teacher, which might take a few days to review the result. Apart from the delay that might hamper the student from recollecting details and gathering experience learned in the project, students hardly share their work with each other to possess an objective perspective on their own composition. Various investigations have shown that compared to their senior generations, people tend to accept suggestions from their own generations more sincerely. To conclude, working together boosts students' potential in receiving novel knowledge.
+Collaboration accelerates students' ~~speed at~~efficiency which they absorb knowledge. Compared to independent project, collaborative projects add transfer of information to the process. In a conventional solo project, a student do all the work on his own. With everything done, he waits for the feedback from the teacher, which might take a few days to review the result. Apart from the delay that might hamper the student from recollecting details and gathering experience learned in the project, students hardly share their work with each other to possess an objective perspective on their own composition. Various investigations have shown that compared to their senior generations, people tend to accept suggestions from their own generations more sincerely. To conclude, working together boosts students' potential in receiving novel knowledge. **For law students like me, for example, when they are confronted with a formidable project such as reviewing a case which requires all-round consideration, collaborative researching enables us to attain the latchkey of the case through group discussion swiftly, compared with independent researching where, even having thought about the issue for a long period, one might still easily neglect some intrinsic details.**
 
-Efficient collaboration is brought as a vital skill to students during group projects. Modern scientific research findings more rarely depend on single individuals' outstanding intelligence, where collective wisdom in the form of scientific groups and laboratories that consist of hundreds of scientists is replacing traditional single scientists like Einstein and Thomas Young, becoming dominant forces in achieving new breakthroughs. Consequently, as a modern individual, collaboration is fundamental and collaborative projects are perfect occasions to train this vital skill. During collaboration, students learn how to express himself, listen to others' opinions and eventually evolve a consensus that is well proved and viable. Contrarily, students may neglect the discrimination and prejudice he brings in, hardly capable of gradually cultivating critical thinking.
+> **具体一点的例子。**
 
-Admittedly, working on a project together is much more time-consuming than doing a solo project, both for teachers as reviewers and students as participants, since without proper instructions on effective cooperation, it takes time and numerous practice for the students to figure out a good way to fit in a team and to communicate with efficiency. However, from the perspective of long-term effects, proceeding collaborative projects enables students to fit in modern society better, which overweights personal wisdom under contemporary context.
+> 合作学习更放松。
+
+~~Efficient~~ Collaboration is brought as a vital **interpersonal** skill to students during group projects. Modern scientific research findings more rarely depend on single individuals' outstanding intelligence, where collective wisdom in the form of scientific groups and laboratories that consist of hundreds of scientists is replacing traditional single scientists like Einstein and Thomas Young, becoming dominant forces in achieving new breakthroughs. Consequently, as a modern individual, collaboration is fundamental and collaborative projects are perfect occasions to train this vital skill. During collaborative **projects**, students learn how to express himself, listen to others' opinions and eventually evolve a consensus that is well proved and viable. Contrarily, students may neglect the discrimination and prejudice he brings in, hardly capable of gradually cultivating critical thinking.
+
+Admittedly, working on a project together is much more time-consuming than doing a solo project, both for teachers as reviewers and students as participants, since without proper instructions on effective cooperation, it **probably** takes time and numerous practice for the students to figure out a good way to fit in a team and to communicate with efficiency. However, from the perspective of long-term effects, proceeding collaborative projects ~~enables~~ allows students to ~~fit in~~ accustom themselves into modern society better, which overweights personal wisdom under contemporary context.
 
 In conclusion, working as a group in a project has so many dominant edges over working alone. As economy advances with society's call for more collaboration, collaborative projects are expected to be more acceptable by more educators.
 
@@ -291,14 +297,111 @@ TPO 29
 
 -----
 
-##### :pencil: To improve the quality of education, universities should spend money on salaries of university professors.
+TPO 29
+
+##### To improve the quality of education, universities should spend money on salaries of university professors.
 
 It has long been a phenomenon that university professors complain about their low salary while everybody else in society do not think they deserve so much. For the sake of university education quality, university professors, from my perspective, is worth higher salaries.
 
-High salaries free professors from distractions. It is very common for university professors who are hardly satisfied with the number they are payed to do some 'part-time job' such as working as a consultant in a company whose realm is relevant to his research interest, or participating in reviewing test papers in annual college entrance examination. These jobs, however, are huge distractions that shift away a great proportion of professors' concentration at teaching and instructing students. Moreover, professors are competing fiercely for superior titles with which one gets paid more. If high salaries are present, a large number of professors will be content with his income and focus virtually all his vigor onto educating and improving his classes. Consequently, the quality of education can thus advance.
+High salaries free professors from distractions. It is very common for university professors who are hardly satisfied with the number they are payed to do some 'part-time job' such as working as a consultant in a company whose realm is relevant to his research interest, or participating in reviewing test papers in annual college entrance examination. These jobs, however, are huge distractions that shift away a great proportion of professors' concentration at teaching and instructing students. Moreover, professors are competing fiercely for superior titles with which one gets paid more. If high salaries are present, a large number of professors will be content with his income and focus virtually all his vigor onto educating and ~~improving his classes~~ improving his quality of teaching. Consequently, the quality of education can thus advance.
 
 Talents from all academic realms will be fascinated to enter universities for career. There is currently hardly any motivation for one to steel his will to be a professor, except his own substantial interest in a particular field of research or the relatively high social status with fancy titles as a university professor. As a consequence, the intellectuals, once they get their master degree or doctor degree, flee away from university to commercial companies or startups, even risking themselves being unemployed in such a saturated human resource market. It is investigated that throughout the US, instead of professors, football coaches get the highest pay over all staff in a university. Were there reasonably higher salaries for the teaching positions, elites from all around the society would be willing to come to universities with their most advanced industrial experience gained throughout years of practice to share with students.
 
-Admittedly, to nourish a university with decent quality of undergraduate or graduate education, many other measures can also be considered to take, such as partitioning more budget for teaching materials like projectors and classroom facilities. However, there is no other action that is more efficient than raising professors' satisfaction at their job since they are the fundamental forces as well as the true soul that makes up a university and spreads knowledge. In conclusion, as economy booms ~~and~~with society's call for improved higher education, professors will be given more reverence and correspondingly high salaries that fit their contribution.
+Admittedly, to nourish a university with decent quality of undergraduate or graduate education, many other measures can also be considered to take, such as partitioning more budget for teaching materials like projectors and classroom facilities. However, there is no other action that is more efficient than raising professors' satisfaction at their job since
+ they are the fundamental forces as well as the true soul that makes up a university and spreads knowledge. In conclusion, as economy booms ~~and~~with society's call for improved ~~higher~~college education, professors will be given more reverence and correspondingly high salaries that fit their contribution.
 
 **43'**
+
+-----
+
+TPO 27
+
+-----
+
+TPO 27
+
+##### If people have the opportunity to get a secure job, they should take it right away rather than wait for a job that would be more satisfying.
+
+-----
+
+TPO 25
+
+##### Young people nowadays do not give enough time to helping their communities.
+
+-----
+
+TPO 23
+
+##### In today's world, it is more important to work quickly and risk making mistakes than to work slowly and make sure that everything is correct.
+
+-----
+
+TPO 21
+
+##### For success in a future job, the ability to relate well to people is more important than studying hard in school.
+
+-----
+
+TPO 28
+
+##### Parents today are more involved in their children's education than were parents in the past.
+
+-----
+
+TPO 26
+
+##### It is better for children to choose jobs that are similar to their parents' jobs than to choose jobs that are very different from their parent's job.
+
+-----
+
+government
+
+##### :pencil: It is more important for the government to provide money for things that are beautiful than things that are practical.
+
+As economy booms, contemporary governments can gather increased tax revenue. Whether to make use of these budgets for the sake of beauty or practical use has raised an acute discussion. From my perspective, it is practicability rather than beauty that should always be given top priority.
+
+Concentration on practicability guarantees stable and smooth development of economy in the future. Practical use is an eternal need for people, while the desire for beautiful things lacks continuous focus. As a consequence, putting money onto construction of practical facilities and infrastructure that well meets the requirement of society is never a wrong choice for governments, as in a financial crisis, people may choose to sell their jewelry rather than kitchen devices for money. Contrarily, building too many fancy facilities is virtually a waste of money, since they hardly possess the ability to work as a must-have to secure people's fundamental needs or as an incessant stimulus to boost economy. There are, for example, hundreds of new and delicate airports with very fine quality of construction built throughout Spain but they have all been deserted so far. Had they not been built, Spain, which has been severely affected by the previous global economic crisis, could focus on investment to stimulate domestic economy that helps Spain get rid off the crisis, rather than arrange a large proportion of annual revenue for maintenance of these ghost towns.
+
+Practicability reduces governments' financial risk. It is common for people to neglect potential risk when they are wealthy, so is it for governments when economy prospers. During golden ages, governments are enthusiastic about polishing city landscape and constructing new skyscrapers as ornaments added to the spectacular economic miracle, ignorant of venture which might jeopardize governments in a crisis. Japan, for instance, invested billions of yens on hundreds of amusement parks, tourist attractions and exotic hotels during its golden age in 1980s. As soon as the crisis came with huge devaluation of Japanese yen, nearly all these seemingly beautiful holiday resorts were abandoned, leaving their masters broken in business and the government nearly broken as well, compelled to maintain these facilities at a huge annual cost.
+
+Admittedly, as the economy booms, common individuals would call for better view of cities, and epic landscape does have a solid impact on stimulating the economy by attracting talents and raising local citizens' confidence and satisfaction. However, considering the risk in a crisis and the unstable economic condition worldwide, practicability undoubtedly overweights aesthetics.
+
+-----
+
+education
+
+##### :pencil: School used to offer three after-class activities: 1. sports, 2. art, 3. volunteering, but this year, school's extra money may only can offer on activity. Which one do you choose and why?
+
+> volunteering: 1. practical skills, 2. recognition and perception.
+
+With decreased educational budget, the school is confronted with a tough choice to preserve only one activity from sports, art or volunteering. From my perspective, it is the volunteering activity that should be kept rather than the other two.
+
+Volunteering teaches students practical skills. At school, students are masters, most exceedingly confident of their own prominent abilities in subjects such as maths and languages. When it comes to planting, caring other children or even cooking, most students are muted since these vital practical skills are never taught at school. Investigations and surveys have pointed out that in China, 90% primary school children have never cooked a meal. A more common phenomenon in real life is that children are kept away from housework, having been reminded by parents of the superiority of study. However, with volunteering activities in which various daily techniques are required, students will be enabled gradually to obtain the knowledge outside academic subjects but existing everywhere in life. Moreover, schools' advocating volunteering activities officially will strongly promote the necessity of after-school activities, in opposition against the prevailing opposite opinion.
+
+Doing voluntary work brings rise in students' recognition and perception. Academic subjects children learn at school are usually so confined that children are ignorant of the real society outside campus, which creates huge obstacles on their way to accustoming themselves to society in the future. Voluntary work, however, brings children outside campus into the real world, blending pupils with society where students will be shown a comprehensive view of society and gradually develop their own objective perspective and critical thinking of the world they live in. Without touching the reality as a volunteer, topics like aging society, poverty and abortion would remain familiar on writing assignment yet distant from their life.
+
+Admittedly, the other two options have their edges over volunteering. Sports activities, for instance, release students' stress and offer them solid physical health. Art activities cultivate children's sense of aesthetics, enabling their appreciation for masterpieces. Compared with volunteering, however, neither of them have such dominant preponderance in developing students' daily life skills and actual feel of real society, because either sports or art locks children inside campus gate whereas volunteering opens the it.
+
+In conclusion, volunteering is more favorable from my point of view. As the economy booms and society advances, volunteering is expected to gain more attention and appreciation from a wider range of communities.
+
+**35'**
+
+-----
+
+health
+
+##### If you want to change one aspect to improve your health, which would you choose? 1. the kinds of food you eat, 2. the amount of the exercise you do, 3. the amount of the stress in your life.
+
+> exercise: 1. physical health: immune system, obesity, 2. mental health: release stress.
+
+-----
+
+environment
+
+##### Modern agriculture does damage the environment, but providing food for the growing population around the world is more important than protecting the environment.
+
+-----
+
+friend
+
+##### Which way do you think is the best for a student to make new friends? 1. joining a sports team, 2. participating in community activities, 3. traveling.
