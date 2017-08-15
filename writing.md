@@ -307,8 +307,7 @@ High salaries free professors from distractions. It is very common for universit
 
 Talents from all academic realms will be fascinated to enter universities for career. There is currently hardly any motivation for one to steel his will to be a professor, except his own substantial interest in a particular field of research or the relatively high social status with fancy titles as a university professor. As a consequence, the intellectuals, once they get their master degree or doctor degree, flee away from university to commercial companies or startups, even risking themselves being unemployed in such a saturated human resource market. It is investigated that throughout the US, instead of professors, football coaches get the highest pay over all staff in a university. Were there reasonably higher salaries for the teaching positions, elites from all around the society would be willing to come to universities with their most advanced industrial experience gained throughout years of practice to share with students.
 
-Admittedly, to nourish a university with decent quality of undergraduate or graduate education, many other measures can also be considered to take, such as partitioning more budget for teaching materials like projectors and classroom facilities. However, there is no other action that is more efficient than raising professors' satisfaction at their job since
- they are the fundamental forces as well as the true soul that makes up a university and spreads knowledge. In conclusion, as economy booms ~~and~~with society's call for improved ~~higher~~college education, professors will be given more reverence and correspondingly high salaries that fit their contribution.
+Admittedly, to nourish a university with decent quality of undergraduate or graduate education, many other measures can also be considered to take, such as partitioning more budget for teaching materials like projectors and classroom facilities. However, there is no other action that is more efficient than raising professors' satisfaction at their job since they are the fundamental forces as well as the true soul that makes up a university and spreads knowledge. In conclusion, as economy booms ~~and~~with society's call for improved ~~higher~~college education, professors will be given more reverence and correspondingly high salaries that fit their contribution.
 
 **43'**
 
@@ -390,15 +389,39 @@ In conclusion, volunteering is more favorable from my point of view. As the econ
 
 health
 
-##### If you want to change one aspect to improve your health, which would you choose? 1. the kinds of food you eat, 2. the amount of the exercise you do, 3. the amount of the stress in your life.
+##### :pencil: If you want to change one aspect to improve your health, which would you choose? 1. the kinds of food you eat, 2. the amount of the exercise you do, 3. the amount of the stress in your life.
 
 > exercise: 1. physical health: immune system, obesity, 2. mental health: release stress.
+
+Health is one of the biggest concern for modern individuals nowadays. Different people might apply various methods in order to improve their health such as healthy diets, exercise or releasing stress. From my perspective, exercise is definitely the most effective way.
+
+Exercise can improve one's physical health. People who submerge themselves in the gym all the day tend to appear  resistant against every flu. Hundreds of investigations have shown that people with regular exercise do build a stronger immune system that defends virus away from body compared to those without proper amount of work-out. Besides, as obesity gradually becomes an increasingly severe issue in modern society since food is no longer out of affordable price thanks to the industrial revolutions, exercise as an efficient and effective way of consuming surplus body fat is appealing to a wider range of people. Working classes, especially, having exhausted by a whole day work, simply finds exercise like jogging in the evening after work to be a pleasant measure to keep fit.
+
+Exercise is also helpful when it comes to mental health. Keeping one's physical health is not the only function of exercise, but it has also been proved by various studies that exercise does good to one's psychological health as well. Research has illustrated that on average people with exercise are much more satisfied and optimistic about life than those without exercise. The real magic of work-out is dependent on the fact that during exercise, people drop off mental overhead and concentrate fully on the sports they are doing, not to mention that after exercise, people are deprived of the vigor to stick on stress, eager in most cases for a sound sleep which particularly refreshes their mind and gets them ready for the next day. Such a process consisting of good sleep, abundant energy and constant exercise forms a positive feedback loop that guarantees people's mental well-being.
+
+Admittedly, improvement in food quality such as consuming more fresh salads and less meat or fries does have significantly favorable impact on one's physical health, and releasing stress can never be exaggerated in term of maintaining one's psychological well-being. However, neither can simultaneously deal with both physical and mental health compared to exercise. Moreover, while both better food and stress removal require considerable amount of money and effort, exercise merely might cost you only the price of a bicycle or an outfit for jogging or swimming, but it brings you many years of quality life rid off the pain in illness.
+
+In conclusion, exercise is the best choice compared to the other two. As the economy booms and people's demand for life quality flourishes, exercise is expected to obtain the preference by an even broader range of individuals.
+
+**39'**
 
 -----
 
 environment
 
-##### Modern agriculture does damage the environment, but providing food for the growing population around the world is more important than protecting the environment.
+##### :pencil: Modern agriculture does damage the environment, but providing food for the growing population around the world is more important than protecting the environment.
+
+As every sword has two sides, modern agriculture, while serving the abundant food source powering modern society, is also incessantly criticized for its damage to the environment. From my perspective, however, the criticism hardly makes sense, as people's life should always be attached the superior significance to over everything else, including environmental protection.
+
+Modern agriculture is the only solution to population boom globally. Compulsory family plan policy conducted in China has been under heavy criticism since the very beginning of it, mostly for concerns on its limitation over human rights, let alone the policy was abolished recently. As a consequence, modern world is confronted with the remaining solution which is agriculture advancement. Criticizers have never stopped blaming it. However, it is hardly known to them that without modern agriculture what will happen is stunning. Africa, for example, witnessed millions of death in the 1970s due to malaria, whereas DDT, the most efficient and economic pesticide at that time, was banned because a book written by an American environmentalist uncovered DDT's harm to the food chain.
+
+Modern agriculture and environmental protection do not actually conflict. One of the most popular and active subfields of agriculture is the research on eco-friendly farming and there have been hundreds of major breakthroughs anticipated by scientists able to innovate the way people farm, such as vertical farm and soil-free farm that takes up less space and emits less greenhouse gas. Moreover, with red meat production being one of the major sources of greenhouse gas, people in the developed world are gradually convinced of the concept of healthier diet with more vegetable salads over conventional diet largely consisting of meat, which suppresses the global exponential growth of red meat production.
+
+Admittedly, modern agriculture is unable to avoid every negative effect it might cause to the environment contemporarily due to limitation ~~on~~ of scientific research. However, as population issue becomes high on the to-do list of governments, there is no reason for people to go back to the old farming pattern in the pre-industrial period for the sake of the environment, in the sacrifice of loss of population, since a larger population is the direct consequence of technological advancement. Moreover, it is unreasonable for people to oppose something they have been dependent on for so many years for granted.
+
+In conclusion, modern agriculture does do damage to the environment, but considering life-saving and future breakthroughs, the society has every reason to give hope to it and expect it to be the key to the population problem as well as the environmental issue.
+
+**41'**
 
 -----
 
